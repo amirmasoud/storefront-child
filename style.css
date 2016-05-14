@@ -22,7 +22,7 @@ Images License: GNU General Public License v2 or later
 /*
  * Add your own custom css below this text.
  */
-@import url('http://fontweb.ir/css/B Yekan={fontweb.ir}.css');
+@import url("http://fontweb.ir/css/B Yekan={fontweb.ir}.css");
 
 body, input, select, html, button {
 	font-family: "B Yekan", "Source Sans Pro",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
